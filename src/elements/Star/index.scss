@@ -1,7 +1,7 @@
 @import "../../assets/scss/colorVariables";
 
 .stars {
-  position: absolute;
+  position: relative;
   min-width: 200px;
   display: inline-flex;
   .star {
