@@ -1,6 +1,12 @@
 React Reveal Fixing :
 npm i react-reveal --legacy-peer-deps
 
+React Html Parser
+npm install react-html-parser --legacy-peer-deps
+
+Solving Buffer
+npm install -D buffer --legacy-peer-deps
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
